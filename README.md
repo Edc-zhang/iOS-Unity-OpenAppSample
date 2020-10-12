@@ -25,4 +25,4 @@ iOS App and UnityApp Open Each Other With Image Params （OpenURL/URL Scheme）
 
 
 ## Download Code
-https://github.com/Edc-zhang/Edc-zhang-iOS-Unity-OpenAppSample.git
+https://github.com/Edc-zhang/iOS-Unity-OpenAppSample.git
