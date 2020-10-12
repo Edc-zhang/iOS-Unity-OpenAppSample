@@ -17,6 +17,10 @@ iOS App and UnityApp Open Each Other With Image Params （OpenURL/URL Scheme）
 - PhotoApp中提供拍照和从相册中选取图片功能，拍照或选取图片后可返回MainApp并把图片Base64信息带回MainApp进行展示
 - UnityApp中提供截图功能，支持跳转至MainApp并把当前截图并回传至MainApp进行展示
 
+## Unity3D Build iOS Project
+- https://www.jianshu.com/p/a0315d33cdf4
+- https://gameinstitute.qq.com/community/detail/122510
+
 ## Tips
 ### Scheme
 - MainApp -> mainapp
