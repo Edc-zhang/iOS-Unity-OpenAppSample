@@ -10,7 +10,7 @@ iOS App and UnityApp Open Each Other With Image Params （OpenURL/URL Scheme）
 - iOS
 - Unity
 
-## Main Content
+## Main Introduce
 - MainApp可以和PhotoApp、UnityApp进行相互跳转（使用OpenURL方式，需配置各App的URL Scheme）
 - MainApp提供从PhotoApp（iOS原生项目）、UnityApp（Unity项目）两个入口获取图片并返回至MainApp
 - MainApp跳转至PhotoApp和UnityApp时可进行传参（这里传递了简单coord信息）
